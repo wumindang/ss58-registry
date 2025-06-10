@@ -1356,7 +1356,7 @@
       "network": "wuminbi",
       "displayName": "Wuminbi",
       "symbols": ["WMB"],
-      "decimals": [2],
+      "decimals": [4],
       "standardAccount": "*25519",
       "website": "https://www.wuminbi.com"
     }
